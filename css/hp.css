@@ -1,0 +1,87 @@
+@media (max-width: 575.98px) {
+
+    .container-fluid .site-logo {
+        width: 100% !important;
+    }
+
+    .container-fluid .site-logo a {
+        font-size: 12px;
+    }
+
+    .icon-menu {
+        color: #098249;
+    }
+
+    #home-section .slide-1 h1 {
+        margin-top: 7rem;
+        font-size: 1.5rem;
+    }
+
+    #home-section .slide-1 p {
+        font-size: 1rem;
+    }
+
+    .slide-1 {
+        background-size: contain;
+    }
+
+    .slick-prev,
+    .slick-next {
+        width: 10rem !important;
+        margin-top: -8.5rem;
+    }
+
+    .slick-prev::before,
+    .slick-next::before {
+        font-size: 3rem !important;
+    }
+
+    .slick-prev {
+        margin-left: auto;
+        z-index: 999;
+    }
+
+    .slick-next {
+        margin-right: auto;
+    }
+
+    .slick-prev::before,
+    .slick-next::before {
+        color: white !important;
+        opacity: 1 !important;
+    }
+
+    .slick-dots {
+        bottom: 0 !important;
+    }
+
+    .form-box {
+        opacity: .9;
+    }
+
+    .text-black {
+        font-size: 1.2rem !important;
+    }
+
+    .kotak input {
+        font-size: 14px !important;
+        padding: 0 !important;
+    }
+
+    .kotak .via-bank img {
+        width: 2.5rem !important;
+        margin-top: -1rem !important;
+        margin-left: -1rem !important;
+    }
+
+    .kotak .via-bank span {
+        margin: auto !important;
+        margin-left: 10px !important;
+        font-size: 10px !important;
+    }
+
+    .kotak .via-bank input {
+        font-size: 12px !important;
+    }
+
+}
